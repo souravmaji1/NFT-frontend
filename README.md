@@ -1,17 +1,7 @@
-# [Next.js](https://nextjs.org/) NFT Mint dApp
-
-A simple, fast and modern dApp for minting NFTs.
-
-![Next.js NFT Mint dApp](images/nextjs-nft-mint-dapp.png)
-
-> This dApp is designed with the assumption that [Hardhat NFT Smart Contract](https://github.com/kjmczk/hardhat-nft-smart-contract) will be used for the backend. First you need to deploy the smart contract to get the contract address and ABI. Otherwise, the dApp will not work. If you want to use your own smart contract, manually set your contract addresses (`config/contract-config.json`) and ABI (`config/abi.json`). But in that case, it can be complicated because you need to modify the source code of the dApp (some function names, configurations, etc.).
-
-## Usage
-
 1 . Clone this repo:
 
 ```sh
-git clone https://github.com/kjmczk/nextjs-nft-mint-dapp.git
+git clone https://github.com/souravmaji1/NFT.frontend.git
 ```
 
 2 . Change into the directory:
